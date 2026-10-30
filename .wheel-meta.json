@@ -1,0 +1,22 @@
+{
+  "wheel_id": 517,
+  "structure": "umbrella",
+  "slug": "propertymanagersunshinecoast-107",
+  "project": "rental-property-managers-sunshine-coast-checklist-c4ba230ccbc3f",
+  "parent_t1_ref": "propertymanagersunshinecoast-153",
+  "node_role": "feeder",
+  "money_target": "propertymanagersunshinecoast.com.au",
+  "primary_kw": "rental property managers sunshine coast checklist",
+  "intended_url": "https://aumedia.neocities.org/rental-property-managers-sunshine-coast-checklist-c4ba230ccbc3f/",
+  "tier": "T2",
+  "writeback_nonce": "477228155a1b1944",
+  "links": [
+    {
+      "target_url": "http://rental-property-managers-sunshine-coast-e94eb2134b6b4d6f7f9802b.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "rental property managers sunshine coast",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
